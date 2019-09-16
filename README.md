@@ -11,14 +11,20 @@ stone path to the water without getting hit by enemy bugs.
 
 collection gem
 
-
 -Land on the square with a gem in it to collect the gem and to get bonus points.
 
 Level up
 
-
-
 Complete each level by reaching the water. This will level you up and increase your points.
+
+Resources:
+
+1-Udacity Supporting Courses: Object-Oriented JavaScript & HTML5 Canvas
+2-Pluralsight: HTML5 Canvas Fundamentals
+
+Style Guide Used:
+Udacity Front-End Style Guide
+
 
 Result
 
